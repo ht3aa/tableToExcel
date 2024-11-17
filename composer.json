@@ -1,0 +1,17 @@
+{
+    "name": "hasanweb/table-to-excel",
+    "autoload": {
+        "psr-4": {
+            "Hasanweb\\TableToExcel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ht3aa",
+            "email": "ht3aa@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^3.4"
+    }
+}
